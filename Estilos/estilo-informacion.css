@@ -1,0 +1,27 @@
+h1  {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 50px;
+}
+
+
+h2{
+    font-family: 'Roboto Mono', monospace; 
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    font-family: 'Source Code Pro', monospace;
+}
+
+a {
+    font-family: 'Roboto Mono', monospace; 
+    justify-items: center;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,47 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+ul  {
+    width: 800px;
+    margin: 20px auto;
+ }
+
+ h1  {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 50px;
+}
+
+.lista-imagenes {
+    display: flex;
+    overflow: auto;        
+}
+
+.lista-imagenes img {
+    width: 100%;
+    object-fit: cover;
+    height: 10cm;
+    width: 10cm;
+    margin-right: 1cm;
+    margin-top: 2cm;
+}
+
+div h4 {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    margin-right: 35px;
+    margin-top: 10px;
+}
+a {
+    font-family: 'Roboto Mono', monospace; 
+    text-align: center;
+    background-color: black;
+    color: white;
+}

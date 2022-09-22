@@ -1,0 +1,54 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+ul  {
+    width: 800px;
+    margin: 20px suto;
+ }
+
+ h1  {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Roboto Mono', monospace; 
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h3 {
+  font-family: 'Source Code Pro', monospace;
+  text-align: center;
+  font-size: 25px ;
+}
+
+img {
+    max-width: 7cm;
+    max-height: 7cm;
+    margin: 28px; 
+    display: inline;
+    inline-size: 20cm;
+}
+
+
+iframe {
+    display: inline;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+
+a {
+    font-family: 'Roboto Mono', monospace; 
+    text-align: center;
+    background-color: black;
+    color: white;
+}
